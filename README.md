@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Sampath 🤘
 
-<!--
-**sxm-0410/sxm-0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Woxsen University**, building things on the web and slowly figuring out the SaaS stack one tool at a time.
 
-Here are some ideas to get you started:
+Currently going deep on what it takes to build a SaaS product from scratch, and getting into **Obsidian** for better thinking and note-taking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tools & Tech
+
+**Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript, React, Next.js
+
+**Backend & Data:** Python, MySQL, Supabase, MongoDB
+
+**Environment:** VS Code, Obsidian, Claude, Antigravity, PyCharm(Not much)
+
+
+## Currently
+
+- Exploring the tools that power modern SaaS products
+- Building with **Next.js** + **Supabase**
+- Structuring my notes and thinking with **Obsidian**
+- Learning **AI Automation**. The right way
+
+
+## A Few Things About Me
+
+- Lead guitarist
+- Never had a pet, but the dream is very much alive
+- Genuinely excited about where AI Automation is headed
+
+
+## How To Reach Me
+
+- **Email**: sampathbageyawadi1@outlook.com
+- **Instagram**: [@sxam_0410](https://www.instagram.com/sxam_.0410/)
+  
+
+---
+
+
+
