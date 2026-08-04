@@ -1,4 +1,4 @@
-# Hey, I'm Sampath 🤘
+# Hey, I'm Sampath 
 
 Computer Science student at **Woxsen University**, building things on the web and slowly figuring out the SaaS stack one tool at a time.
 
